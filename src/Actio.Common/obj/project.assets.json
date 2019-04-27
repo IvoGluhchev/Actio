@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ActioProject\\src\\Actio.Common\\Actio.Common.csproj",
+      "projectUniqueName": "C:\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
       "projectName": "Actio.Common",
-      "projectPath": "C:\\ActioProject\\src\\Actio.Common\\Actio.Common.csproj",
+      "projectPath": "C:\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\ActioProject\\src\\Actio.Common\\obj\\",
+      "outputPath": "C:\\Actio\\src\\Actio.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

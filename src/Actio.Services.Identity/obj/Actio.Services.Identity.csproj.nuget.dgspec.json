@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ActioProject\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj": {}
+    "C:\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj": {}
   },
   "projects": {
-    "C:\\ActioProject\\src\\Actio.Common\\Actio.Common.csproj": {
+    "C:\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ActioProject\\src\\Actio.Common\\Actio.Common.csproj",
+        "projectUniqueName": "C:\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
         "projectName": "Actio.Common",
-        "projectPath": "C:\\ActioProject\\src\\Actio.Common\\Actio.Common.csproj",
+        "projectPath": "C:\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\ActioProject\\src\\Actio.Common\\obj\\",
+        "outputPath": "C:\\Actio\\src\\Actio.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\ActioProject\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj": {
+    "C:\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ActioProject\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj",
+        "projectUniqueName": "C:\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj",
         "projectName": "Actio.Services.Identity",
-        "projectPath": "C:\\ActioProject\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj",
+        "projectPath": "C:\\Actio\\src\\Actio.Services.Identity\\Actio.Services.Identity.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\ActioProject\\src\\Actio.Services.Identity\\obj\\",
+        "outputPath": "C:\\Actio\\src\\Actio.Services.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\ActioProject\\src\\Actio.Common\\Actio.Common.csproj": {
-                "projectPath": "C:\\ActioProject\\src\\Actio.Common\\Actio.Common.csproj"
+              "C:\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
+                "projectPath": "C:\\Actio\\src\\Actio.Common\\Actio.Common.csproj"
               }
             }
           }
